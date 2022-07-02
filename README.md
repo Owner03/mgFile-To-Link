@@ -18,7 +18,7 @@
 ## About This Bot
 
 <p align="center">
-    <a href="https://github.com/Aadhi000/File-To-Link">
+    <a href="https://github.com/Owner03/mgFile-To-Link">
         <img src="https://www.flaticon.com/premium-icon/icons/svg/2626/2626281.svg" height="100" width="100" alt="Telegram Logo">
     </a>
 </p>
@@ -34,12 +34,12 @@ Either you could locally host or deploy on [Heroku](https://heroku.com)
 
 Press the below button to Fast deploy on Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/owner03/mgFile-To-Link)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Owner03/mgFile-To-Link)
 
 ### Host it on VPS or Locally
 
 ```sh
-git clone https://github.com/Aadhi000/File-To-Link
+git clone https://github.com/Owner03/mgFile-To-Link
 cd File-To-Link
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
